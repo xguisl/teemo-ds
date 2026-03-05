@@ -54,3 +54,23 @@ Secure : false
 ```
 
 
+### Hosted by @ [Tapao](https://github.com/Tapao-NonSen)
+[Website](https://tapao.nyxbot.app/free-nodelink)
+
+Version: 4.x.x | [Supported lavalink client list](https://github.com/performanC/nodelink?tab=readme-ov-file#usage)
+Sources: YouTube | Spotify | Apple Music | Deezer | Twitch | For more please check in [website](https://tapao.nyxbot.app/free-nodelink)
+
+```bash
+Host: sg1-nodelink.nyxbot.app
+Port: 3000
+Password: nyxbot.app/support
+Secure: false
+```
+
+```bash
+Host: sg2-nodelink.nyxbot.app
+Port: 3000
+Password: nyxbot.app/support
+Secure: false
+```
+
