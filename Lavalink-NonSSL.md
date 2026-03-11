@@ -25,14 +25,6 @@ hide:
 <!-- FOR ADVERTISING CONTACT ads@darrennathanael.com , PLEASE READ FAQS FOR MORE INFO! -->
 <!-- PLEASE READ -->
 
-### Hosted by @ Guiizoka 
-```bash
-Host : 147.15.37.203
-Port : 2333
-Password : "youshallnotpass"
-Secure : false
-```
-
 ### Hosted by @ [Amane](https://amane.my.id) & [AjieDev](https://github.com/AjieDev)
 [Website & Live Stats](https://free.lavalink.rf.gd/) | [Support server](https://dsc.gg/ajidevserver) | [Amane's Website](https://lavalink-info.serenetia.com/)<br />
 [SSL version](https://lavalink.darrennathanael.com/SSL/Lavalink-SSL/#hosted-by-amane-ajiedev) <br />
